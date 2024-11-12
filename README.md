@@ -1,6 +1,6 @@
 ## DDoS Attack Detection with Stacked-LSTM and Real-Time Inference
 
-Developed a 4-layer stacked-LSTM model to detect DDoS attacks, achieving **95.16% accuracy** on the CIC-DDoS2019 dataset using PyTorch and Numpy. The project involved:
+Developed a 4-layer stacked-LSTM model to detect DDoS attacks, achieving **95.94% accuracy** on the CIC-DDoS2019 dataset using PyTorch and Numpy. The project involved:
 
 ![Connections per Second](_resources/connections_per_time.png)  
 
@@ -17,10 +17,10 @@ Developed a 4-layer stacked-LSTM model to detect DDoS attacks, achieving **95.16
 - **Evaluation**:
     The performance of the model was evaluated using various metrics and visualizations to assess its ability to detect DDoS attacks accurately:
 
-    - **Accuracy:** 95.16%  
-    - **Precision:** 99.89%  
-    - **Recall:** 93.55%  
-    - **F1 Score:** 96.69%
+    - **Accuracy:** 95.94%
+    - **Precision:** 98.21% 
+    - **Recall:** 97.24%  
+    - **F1 Score:** 97.73%
 
   
 
